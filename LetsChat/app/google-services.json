@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "105897371308",
+    "firebase_url": "https://chatting-8d896.firebaseio.com",
+    "project_id": "chatting-8d896",
+    "storage_bucket": "chatting-8d896.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105897371308:android:767acc1e78cdba66022109",
+        "android_client_info": {
+          "package_name": "com.chatapp.Letschat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105897371308-5ujifsloda78cdl9l487qaha24t3onr0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.koddev.chatapp",
+            "certificate_hash": "553dd3ca21b2e96d8f5445a0158bb9b992738153"
+          }
+        },
+        {
+          "client_id": "105897371308-79491ies0loqqhnjncgmc7s2dot2sord.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYslkiX6wyV-9xg_A9lvcb-BdyzeeHbyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105897371308-79491ies0loqqhnjncgmc7s2dot2sord.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
